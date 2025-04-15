@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "demo_user",
+      "email": "demo@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "username": "jessikai",
+      "email": "demo@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "0a9a",
+      "username": "testkai",
+      "email": "test@test.com",
+      "password": "123456"
+    },
+    {
+      "id": "e710",
+      "username": "kkk",
+      "email": "kk@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "photos": [
+    {
+      "id": 3,
+      "title": "magical",
+      "description": "",
+      "tags": [],
+      "filename": "1744587118968-dfe88219-d607-405f-adea-d47669d24405.webp",
+      "filepath": "/uploaded/1744587118968-dfe88219-d607-405f-adea-d47669d24405.webp",
+      "uploadDate": "2025-04-13T23:32:09.495Z",
+      "userId": 1,
+      "albumIds": [],
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "title": "for fun",
+      "description": "",
+      "tags": [],
+      "filename": "1744597343092-2323cf96-ab41-4ad7-91d5-bef460c6b96f.JPG",
+      "filepath": "/uploaded/1744597343092-2323cf96-ab41-4ad7-91d5-bef460c6b96f.JPG",
+      "uploadDate": "2025-04-14T02:22:35.257Z",
+      "userId": 1,
+      "albumIds": []
+    },
+    {
+      "id": 5,
+      "title": "for fun",
+      "description": "for fun",
+      "tags": [],
+      "filename": "1744597374101-2e488cc8-3bae-4944-b97a-cc0619b060f5.JPG",
+      "filepath": "/uploaded/1744597374101-2e488cc8-3bae-4944-b97a-cc0619b060f5.JPG",
+      "uploadDate": "2025-04-14T02:23:05.745Z",
+      "userId": 1,
+      "albumIds": []
+    },
+    {
+      "id": 6,
+      "title": "not a book page",
+      "description": "",
+      "tags": [],
+      "filename": "1744597715142-d6e19613-89c5-4e42-b50b-cd13e0a23787.JPG",
+      "filepath": "/uploaded/1744597715142-d6e19613-89c5-4e42-b50b-cd13e0a23787.JPG",
+      "uploadDate": "2025-04-14T02:28:45.273Z",
+      "userId": 1,
+      "albumIds": []
+    },
+    {
+      "id": 7,
+      "title": "an icon",
+      "description": "",
+      "tags": [],
+      "filename": "1744597874962-b038a312-fdec-4e7b-a06d-fc85fabbe57f.png",
+      "filepath": "/uploaded/1744597874962-b038a312-fdec-4e7b-a06d-fc85fabbe57f.png",
+      "uploadDate": "2025-04-14T02:31:21.982Z",
+      "userId": 1,
+      "albumIds": []
+    }
+  ],
+  "albums": [],
+  "shares": []
+}
